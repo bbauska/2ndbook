@@ -1,2 +1,3 @@
-# 2ndbook
-2nd book of cool graphics.
+# 1stbook.bauska.org
+
+Book layout.  Topics; Einstein, Crop Circles, UFO's.
