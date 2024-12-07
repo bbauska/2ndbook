@@ -1,3 +1,3 @@
-# 1stbook.bauska.org
+# 2ndBook.bauska.org
 
-Book layout.  Topics; Einstein, Crop Circles, UFO's.
+Book layout.  Topics; Crop Circles & UFO's.
